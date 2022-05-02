@@ -1,2 +1,5 @@
-# DataAnalytics2020M161
-Course project for Data Analytics course Winter 2020
+# DataAnalytics
+# Winter Semester 2020
+# M161
+
+Course project 
